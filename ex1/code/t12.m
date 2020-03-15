@@ -1,0 +1,1 @@
+plot(squarewave(200))
